@@ -1,4 +1,5 @@
 ### Hi there 👋
+<br/>
 <a href="https://www.linkedin.com/in/Nayemjaman/">
   <img align="left" alt="Nayem Jaman Tuhser's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -11,14 +12,14 @@
 <a href="mailto:nayemjamantusher@gmail.com">
   <img align="left" alt="nayemjamantusher@gmail.com" width="29px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" />
 </a>
-
-
 <a href="https://github.com/Nayemjaman" target="_blank"><p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayemjaman&label=Profile%20views&color=129e00" alt="Nayemjaman" /> </p><a/> 
-
-
-
-
+<br/><br/>
+I'm Nayem Jaman Tusher. I'm a Python developer that specializes in web scraping and automation, data analytics, and web development.
+</br>
+I have experience in working with back-end technologies (Django, Django REST Framework, SQL), web scraping (Scrapy, selenium, Bs4), ETL, and real-world business problems from scratch.
+</br>
+Now I'm searching for opportunities to work on projects including web development, web scraping, automation, and data analytics.
 
 
 

@@ -22,8 +22,9 @@ I have experience in working with back-end technologies (Django, Django REST Fra
 </hr>
 👯 Now I'm searching for opportunities to work on projects including web development, web scraping, automation, and data analytics.
 </hr>
+</br></br></br>
 
-
+![backend](https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif)
 
 
 

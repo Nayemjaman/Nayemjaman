@@ -11,8 +11,8 @@
 <br/><br/>
 I'm Nayem Jaman Tusher. I'm a Python developer that specializes in web scraping and automation, data analytics, and web development.
 </br>
-I have experience in working with back-end technologies (Django, Django REST Framework, SQL), web scraping (Scrapy, selenium, Bs4), ETL, and real-world business problems from scratch.<br/>
-<b>Docker</b>
+I have experience in working with <b>Docker</b> and back-end technologies (Django, Django REST Framework, SQL), web scraping (Scrapy, selenium, Bs4), ETL, and real-world business problems from scratch.<br/>
+
 </br>
 </hr>
 👯 Now I'm searching for opportunities to work on projects including web development, web scraping, automation, and data analytics.

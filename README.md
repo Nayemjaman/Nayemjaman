@@ -1,11 +1,6 @@
 ### Hi there 👋
 <br/>
-<a href="https://www.linkedin.com/in/Nayemjaman/">
-  <img align="left" alt="Nayem Jaman Tuhser's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/nayemjaman">
-  <img align="left" alt="nayemjaman | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 <a href="https://github.com/Nayemjaman" target="_blank"><p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayemjaman&label=Profile%20views&color=129e00" alt="Nayemjaman" /> </p><a/> 
 <br/><br/>

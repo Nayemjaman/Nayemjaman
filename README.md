@@ -4,13 +4,13 @@
 <a href="https://github.com/Nayemjaman" target="_blank"><p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayemjaman&label=Profile%20views&color=129e00" alt="Nayemjaman" /> </p><a/> 
 <br/><br/>
-I'm Nayem Jaman Tusher. I'm a Python developer that specializes in web scraping and automation, data analytics, and web development.
+I'm Nayem Jaman Tusher. I'm a Python developer specializing in web development, data scraping, and automation.
 </br>
-I have experience in working with <b>Docker</b> and back-end technologies (Django, Django REST Framework, SQL), web scraping (Scrapy, selenium, Bs4), ETL, and real-world business problems from scratch.<br/>
+I have experience in working with Docker and back-end technologies (Django, Django REST Framework, SQL), web scraping (Scrapy, selenium, Bs4), ETL, and real-world business problems from scratch.<br/>
 
 </br>
 </hr>
-👯 Now I'm searching for opportunities to work on projects including web development, web scraping, automation, and data analytics.
+👯 Now I'm searching for opportunities to work on projects including web API development, web scraping, automation, and data analytics.
 </hr>
 </br></br></br>
 

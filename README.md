@@ -2,7 +2,7 @@
 <br/>
 <a href="https://github.com/Nayemjaman" target="_blank"><p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayemjaman&label=Profile%20views&color=129e00" alt="Nayemjaman" /> </p><a/> 
-<br/><br/>
+<br/>
 🔧 I specialize in Django, FastAPI, and web scraping with Scrapy and Selenium.
 <br/>
 🚀 I’ve built real-time apps with WebSockets, automated scrapers handling 50K+ records/day, and integrated secure Stripe payments.

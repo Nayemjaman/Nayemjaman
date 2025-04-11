@@ -1,17 +1,16 @@
-### Hi there 👋
+### 👋 Hi, I’m Nayem Jaman Tusher — a Python backend developer passionate about building scalable systems and automation tools.
 <br/>
 
 <a href="https://github.com/Nayemjaman" target="_blank"><p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayemjaman&label=Profile%20views&color=129e00" alt="Nayemjaman" /> </p><a/> 
 <br/><br/>
-I'm Nayem Jaman Tusher. I'm a Python developer specializing in web development, data scraping, and automation.
-</br>
-I have experience in working with Docker and back-end technologies (Django, Django REST Framework, SQL), web scraping (Scrapy, selenium, Bs4), ETL, and real-world business problems from scratch.<br/>
-
-</br>
-</hr>
-👯 Now I'm searching for opportunities to work on projects including web API development, web scraping, automation, and data analytics.
-</hr>
+🔧 I specialize in Django, FastAPI, and web scraping with Scrapy and Selenium.
+<br/>
+🚀 I’ve built real-time apps with WebSockets, automated scrapers handling 50K+ records/day, and integrated secure Stripe payments.
+<br/>
+🛠️ Experienced with Docker, Redis, PostgreSQL, CI/CD, and Celery for async workflows.
+<br/>
+📊 I love turning raw data into structured insights with custom ETL pipelines.
 </br></br></br>
 
 

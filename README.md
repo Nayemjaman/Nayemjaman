@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Nayem Jaman Tusher — a Python backend developer passionate about building scalable systems and automation tools.
 <br/>
-
 <a href="https://github.com/Nayemjaman" target="_blank"><p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayemjaman&label=Profile%20views&color=129e00" alt="Nayemjaman" /> </p><a/> 
 <br/><br/>
